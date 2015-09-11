@@ -7,3 +7,4 @@ Switching to Swift is not just adopting a nice-looking syntax, it’s a paradigm
 
 Working on open source libraries for AeroGear / FeedHenry, I’ve switched to Swift from day one, I’d like to share with you my experience and show you some of the super powers I’ve discovered when coding the Swift way. Tips will be illustrated with code snippets taken from open source libraries.
 
+You can view the presentation in github pages [here](http://corinnekrych.github.io/functionalkats).
